@@ -1,4 +1,4 @@
-## 🚀 30diasDeCSS
+## 🚀 100 Days CSS Chalenge
  
  Fala Devs, beleza? 🖖
 
