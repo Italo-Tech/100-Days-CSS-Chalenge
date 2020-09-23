@@ -1,6 +1,6 @@
 ## 🚀 100 Days CSS Chalenge
-Meus projetos
-* [ÍtaloCodepen](https://codepen.io/ItaloTech)
+
+Conheça meus projetos: [ÍtaloTech](https://codepen.io/ItaloTech)
 
  Fala Devs, beleza? 🖖
 
